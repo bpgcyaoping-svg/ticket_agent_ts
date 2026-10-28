@@ -1,0 +1,10 @@
+ex_ctx/*
+.DS_Store
+/docs/
+node_modules/
+dist/
+.env
+.env.local
+.env.development
+.env.production
+.env.test
